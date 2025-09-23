@@ -15,4 +15,4 @@ Forward any questions regarding this project and code base to Mikko Jimenez (mji
 *All scripts have been test in R Version 2025.05.1+513 (2025.05.1+513)
 
 ## Data availability
-Data for this analysis can be found at: [ADD LINK]
+All data for these scripts can be found in the included Data folder. 
